@@ -30,8 +30,16 @@ p.camera();
 p.osName();
 p.storage();
 
+//<<<<<<< HEAD
 //m2 code
 System.out.println("m2 added");
+//=======
+//------------------------------
+
+//below code added by m1
+
+System.out.println("added by m1");
+//>>>>>>> ffa3e0ff51c8848fb580a4ff53be22f387a0c134
 }
 }
 
