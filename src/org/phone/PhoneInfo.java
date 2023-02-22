@@ -29,6 +29,9 @@ p.phoneMieiNum();
 p.camera();
 p.osName();
 p.storage();
+
+//m2 code
+System.out.println("m2 added");
 }
 }
 
