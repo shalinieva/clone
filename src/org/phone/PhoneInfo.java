@@ -29,6 +29,12 @@ p.phoneMieiNum();
 p.camera();
 p.osName();
 p.storage();
+
+//------------------------------
+
+//below code added by m1
+
+System.out.println("added by m1");
 }
 }
 
